@@ -1,4 +1,4 @@
 # Q-Tools
 我的处理脚本
 
-Github太卡了,已迁移至[Gitee](http://cndaqiang.gitee.io/q-tools)
+Github太卡了,代码开始向[Gitee](https://gitee.com/cndaqiang)迁移
